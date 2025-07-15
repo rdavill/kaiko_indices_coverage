@@ -453,7 +453,7 @@ Kaiko,Single-Asset,Kaiko BLZ Reference Rate ,KK_RFR_BLZUSD,BLZ,USD,Real-time (5s
 Kaiko,Single-Asset,Kaiko BLZ Reference Rate LDN,KK_RFR_BLZUSD_LDN,BLZ,USD,Daily Fixing LDN,"February 27, 2024","February 27, 2024",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko BLZ Reference Rate NYC,KK_RFR_BLZUSD_NYC,BLZ,USD,Daily Fixing NYC,"February 27, 2024","February 27, 2024",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko BLZ Reference Rate SGP,KK_RFR_BLZUSD_SGP,BLZ,USD,Daily Fixing SGP,"February 27, 2024","February 27, 2024",Kraken,3600s,
-Kaiko,Single-Asset,Kaiko BNB Reference Rate ,KK_RFR_BNBUSD_1S,BNB,USD,Real-time (1s),"April 21, 2023","April 21, 2023",-,-,
+Kaiko,Single-Asset,Kaiko BNB Reference Rate ,KK_RFR_BNBUSD,BNB,USD,Real-time (5s),"September 20, 2022","September 20, 2022","BinanceUS, CEX.IO, Kraken, OkEX",300s,
 Kaiko,Single-Asset,Kaiko BOBA Reference Rate ,KK_RFR_BOBAUSD,BOBA,USD,Real-time (5s),"February 27, 2024","February 27, 2024","Crypto.com, Kraken",300s,
 Kaiko,Single-Asset,Kaiko BOBA Reference Rate LDN,KK_RFR_BOBAUSD_LDN,BOBA,USD,Daily Fixing LDN,"February 27, 2024","February 27, 2024","Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko BOBA Reference Rate NYC,KK_RFR_BOBAUSD_NYC,BOBA,USD,Daily Fixing NYC,"February 27, 2024","February 27, 2024","Crypto.com, Kraken",3600s,
