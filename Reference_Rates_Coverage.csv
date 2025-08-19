@@ -731,7 +731,7 @@ Kaiko,Single-Asset,Kaiko IDEX Reference Rate NYC,KK_RFR_IDEXUSD_NYC,IDEX,USD,Dai
 Kaiko,Single-Asset,Kaiko IDEX Reference Rate SGP,KK_RFR_IDEXUSD_SGP,IDEX,USD,Daily Fixing SGP,"March 04, 2024","March 21, 2022","Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko ILV Reference Rate ,KK_RFR_ILVUSD,ILV,USD,Real-time (5s),"March 04, 2024","September 19, 2022",Crypto.com,300s,
 Kaiko,Single-Asset,Kaiko ILV Reference Rate LDN,KK_RFR_ILVUSD_LDN,ILV,USD,Daily Fixing LDN,"March 04, 2024","September 19, 2022",Crypto.com,3600s,
-Kaiko,Single-Asset,Kaiko ILV Reference Rate NYC,KK_RFR_ILVUSD_NYC,ILV,USD,Daily Fixing NYC,"March 04, 2024","September 19, 2022",Crypto.com,3600s,
+Kaiko,Single-Asset,Kaiko ILV Reference Rate NYC,KK_RFR_ILVUSD_NYC,ILV,USD,Daily Fixing NYC,"March 04, 2024","September 19, 2022",-,-,
 Kaiko,Single-Asset,Kaiko ILV Reference Rate SGP,KK_RFR_ILVUSD_SGP,ILV,USD,Daily Fixing SGP,"March 04, 2024","September 19, 2022",Crypto.com,3600s,
 Kaiko,Single-Asset,Kaiko IMX Reference Rate ,KK_RFR_IMXUSD,IMX,USD,Real-time (5s),"March 04, 2024","December 20, 2021","Crypto.com, Gemini, Kraken",300s,
 Kaiko,Single-Asset,Kaiko IMX Reference Rate LDN,KK_RFR_IMXUSD_LDN,IMX,USD,Daily Fixing LDN,"March 04, 2024","December 20, 2021","Crypto.com, Gemini, Kraken",3600s,
