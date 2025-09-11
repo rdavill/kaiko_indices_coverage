@@ -900,7 +900,7 @@ Kaiko,Single-Asset,Kaiko MOVE Reference Rate NYC,KK_RFR_MOVEUSD_NYC,MOVE,USD,Dai
 Kaiko,Single-Asset,Kaiko MOVE Reference Rate SGP,KK_RFR_MOVEUSD_SGP,MOVE,USD,Daily Fixing SGP,"March 24, 2025","March 24, 2025","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko MXC Reference Rate ,KK_RFR_MXCUSD,MXC,USD,Real-time (5s),"March 04, 2024","September 19, 2022","Crypto.com, Kraken, OkEX",300s,
 Kaiko,Single-Asset,Kaiko MXC Reference Rate LDN,KK_RFR_MXCUSD_LDN,MXC,USD,Daily Fixing LDN,"March 04, 2024","September 19, 2022","Crypto.com, Kraken, OkEX",3600s,
-Kaiko,Single-Asset,Kaiko MXC Reference Rate NYC,KK_RFR_MXCUSD_NYC,MXC,USD,Daily Fixing NYC,"March 04, 2024","September 19, 2022","Crypto.com, Kraken, OkEX",3600s,
+Kaiko,Single-Asset,Kaiko MXC Reference Rate NYC,KK_RFR_MXCUSD_NYC,MXC,USD,Daily Fixing NYC,"March 04, 2024","September 19, 2022",-,-,
 Kaiko,Single-Asset,Kaiko MXC Reference Rate SGP,KK_RFR_MXCUSD_SGP,MXC,USD,Daily Fixing SGP,"March 04, 2024","September 19, 2022","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko NEAR Reference Rate ,KK_RFR_NEARUSD,NEAR,USD,Real-time (5s),"February 28, 2024","June 21, 2021","Bitfinex, Bitso, Crypto.com, Kraken, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko NEAR Reference Rate LDN,KK_RFR_NEARUSD_LDN,NEAR,USD,Daily Fixing LDN,"February 28, 2024","June 21, 2021","Bitfinex, Bitso, Crypto.com, Kraken, Bitstamp",3600s,
