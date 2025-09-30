@@ -69,10 +69,8 @@ Kaiko,Market,Vinter Diffuse Digital 30 Index,DDV,N/A,N/A,LDN Fixing,"July 02, 20
 Kaiko,Market,Vinter Hashdex Risk Parity Momentum Crypto Index,VHASHMOM,N/A,N/A,17:00 CET Fixing,"September 05, 2022","January 01, 2021",-,-,"<a href=""https://marketing.kaiko.com/hubfs/VHASHMOM%20Kaiko%20Factsheet.pdf"" target=""_blank"">View Factsheet</a>"
 Kaiko,Market,Vinter Bytetree BOLD1 Inverse Volatility Index,BOLD1,N/A,N/A,LDN Fixing,"November 10, 2023","January 01, 2020",-,-,"<a href="""" target=""_blank"">Coming soon</a>"
 CBOE-KAIKO,Single-Asset,CBOE-KAIKO BTC Custom Rate ,CBOE-KAIKO_BTCUSD,BTC,USD,Daily Fixing Custom,"November 02, 2023","December 21, 2020","Itbit, LMAX, Bitstamp",3600s,
-CBOE-KAIKO,Single-Asset,CBOE-KAIKO BTC Custom Rate ,CBOE-KAIKO_BTCUSD_10CTLF,BTC,USD,Daily Fixing Custom,"September 12, 2025","June 23, 2025","Itbit, LMAX, Bitstamp",3600s,
 CBOE-KAIKO,Single-Asset,CBOE-KAIKO BTC Custom Rate ,CBOE-KAIKO_BTCUSD_RT,BTC,USD,Real-time (5s),"January 22, 2024","December 18, 2023","Itbit, LMAX, Bitstamp",10s,
 CBOE-KAIKO,Single-Asset,CBOE-KAIKO ETH Custom Rate ,CBOE-KAIKO_ETHUSD,ETH,USD,Daily Fixing Custom,"November 02, 2023","December 21, 2020","Itbit, LMAX, Bitstamp",3600s,
-CBOE-KAIKO,Single-Asset,CBOE-KAIKO ETH Custom Rate ,CBOE-KAIKO_ETHUSD_10CTLF,ETH,USD,Daily Fixing Custom,"September 12, 2025","June 23, 2025","Itbit, LMAX, Bitstamp",3600s,
 CBOE-KAIKO,Single-Asset,CBOE-KAIKO ETH Custom Rate ,CBOE-KAIKO_ETHUSD_RT,ETH,USD,Real-time (5s),"January 22, 2024","December 18, 2023","Itbit, LMAX, Bitstamp",10s,
 D2X-KAIKO,Single-Asset,D2X-KAIKO BTC Custom Rate ,D2X-KAIKO_BTCUSD,BTC,USD,Real-time (5s),"March 25, 2025","June 22, 2015","Crypto.com, Gemini, Kraken, LMAX, Bitstamp",15s,
 D2X-KAIKO,Single-Asset,D2X-KAIKO BTC Custom Rate LDN,D2X-KAIKO_BTCUSD_LDNLF,BTC,USD,Daily Fixing LDN,"March 25, 2025","June 22, 2015","Crypto.com, Gemini, Kraken, LMAX, Bitstamp",300s,
@@ -1232,7 +1230,7 @@ Kaiko,Single-Asset,Kaiko GUN Reference Rate SGP,KK_RFR_GUNUSD_SGP,GUN,USD,Daily 
 Kaiko,Single-Asset,Kaiko G Reference Rate LDN,KK_RFR_GUSD_LDN,G,USD,Daily Fixing LDN,"September 23, 2024","September 23, 2024","Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko G Reference Rate LDN,KK_RFR_GUSD_LDNLF,G,USD,Daily Fixing LDN,"January 08, 2025","September 23, 2024","Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko G Reference Rate NYC,KK_RFR_GUSD_NYC,G,USD,Daily Fixing NYC,"September 23, 2024","September 23, 2024","Crypto.com, Kraken",3600s,
-Kaiko,Single-Asset,Kaiko G Reference Rate SGP,KK_RFR_GUSD_SGP,G,USD,Daily Fixing SGP,"September 23, 2024","September 23, 2024","Crypto.com, Kraken, OkEX",3600s,
+Kaiko,Single-Asset,Kaiko G Reference Rate SGP,KK_RFR_GUSD_SGP,G,USD,Daily Fixing SGP,"September 23, 2024","September 23, 2024","Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko HBAR Reference Rate ,KK_RFR_HBARUSD,HBAR,USD,Real-time (5s),"September 20, 2022","December 23, 2019","BinanceUS, Bitso, Crypto.com, EDX Markets, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko HBAR Reference Rate LDN,KK_RFR_HBARUSD_LDN,HBAR,USD,Daily Fixing LDN,"September 20, 2022","December 23, 2019","BinanceUS, Bitso, Crypto.com, EDX Markets, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko HBAR Reference Rate LDN,KK_RFR_HBARUSD_LDNLF,HBAR,USD,Daily Fixing LDN,"January 08, 2025","December 23, 2019","BinanceUS, Bitso, Crypto.com, EDX Markets, Bitstamp",3600s,
