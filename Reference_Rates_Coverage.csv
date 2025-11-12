@@ -795,7 +795,7 @@ Kaiko,Single-Asset,Kaiko CFG Reference Rate LDN,KK_RFR_CFGUSD_NYCLF,CFG,USD,Dail
 Kaiko,Single-Asset,Kaiko CFG Reference Rate SGP,KK_RFR_CFGUSD_SGP,CFG,USD,Daily Fixing SGP,"February 27, 2024","June 20, 2022","Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko CFX Reference Rate LDN,KK_RFR_CFXUSD_LDN,CFX,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025",OkEX,3600s,
 Kaiko,Single-Asset,Kaiko CFX Reference Rate SGP,KK_RFR_CFXUSD_SGP,CFX,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025",OkEX,3600s,
-Kaiko,Single-Asset,Kaiko CHEEMS Reference Rate LDN,KK_RFR_CHEEMSUSD_LDN,CHEEMS,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025",Kraken,3600s,
+Kaiko,Single-Asset,Kaiko CHEEMS Reference Rate LDN,KK_RFR_CHEEMSUSD_LDN,CHEEMS,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025",-,-,
 Kaiko,Single-Asset,Kaiko CHEEMS Reference Rate NYC,KK_RFR_CHEEMSUSD_NYC,CHEEMS,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko CHILLGUY Reference Rate LDN,KK_RFR_CHILLGUYUSD_LDN,CHILLGUY,USD,Daily Fixing LDN,"December 13, 2024","December 13, 2024","Crypto.com, Gemini",3600s,
 Kaiko,Single-Asset,Kaiko CHILLGUY Reference Rate NYC,KK_RFR_CHILLGUYUSD_NYC,CHILLGUY,USD,Daily Fixing NYC,"December 13, 2024","December 13, 2024","Crypto.com, Gemini",3600s,
