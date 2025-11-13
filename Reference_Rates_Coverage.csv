@@ -779,6 +779,8 @@ Kaiko,Single-Asset,Kaiko CATI Reference Rate LDN,KK_RFR_CATIUSD_LDN,CATI,USD,Dai
 Kaiko,Single-Asset,Kaiko CATI Reference Rate NYC,KK_RFR_CATIUSD_NYC,CATI,USD,Daily Fixing NYC,"December 13, 2024","December 13, 2024","Crypto.com, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko CATI Reference Rate LDN,KK_RFR_CATIUSD_NYCLF,CATI,USD,Daily Fixing LDN,"May 06, 2025","December 23, 2024","Crypto.com, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko CATI Reference Rate SGP,KK_RFR_CATIUSD_SGP,CATI,USD,Daily Fixing SGP,"December 13, 2024","December 13, 2024","Crypto.com, OkEX",3600s,
+Kaiko,Single-Asset,Kaiko CC Reference Rate ,KK_RFR_CCUSD,CC,USD,Real-time (5s),"November 10, 2025","November 03, 2025","Bybit spot, Gate.io, KuCoin, Kraken, mexc",300s,
+Kaiko,Single-Asset,Kaiko CC Reference Rate LDN,KK_RFR_CCUSD_LDNLF,CC,USD,Daily Fixing LDN,"November 10, 2025","November 03, 2025","Bybit spot, Gate.io, KuCoin, Kraken, mexc",3600s,
 Kaiko,Single-Asset,Kaiko CELO Reference Rate LDN,KK_RFR_CELOUSD_LDN,CELO,USD,Daily Fixing LDN,"February 27, 2024","September 21, 2020","Bitfinex, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko CELO Reference Rate LDN,KK_RFR_CELOUSD_LDNLF,CELO,USD,Daily Fixing LDN,"January 08, 2025","September 21, 2020","Bitfinex, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko CELO Reference Rate NYC,KK_RFR_CELOUSD_NYC,CELO,USD,Daily Fixing NYC,"February 27, 2024","September 21, 2020","Bitfinex, Kraken",3600s,
