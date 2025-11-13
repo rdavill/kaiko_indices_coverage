@@ -581,7 +581,7 @@ Kaiko,Single-Asset,Kaiko ATOM Reference Rate NYC,KK_RFR_ATOMUSD_NYC,ATOM,USD,Dai
 Kaiko,Single-Asset,Kaiko ATOM Reference Rate LDN,KK_RFR_ATOMUSD_NYCLF,ATOM,USD,Daily Fixing LDN,"May 06, 2025","June 17, 2019","Bitso, CEX.IO, Crypto.com, EDX Markets, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko ATOM Reference Rate SGP,KK_RFR_ATOMUSD_SGP,ATOM,USD,Daily Fixing SGP,"September 20, 2022","June 17, 2019","Bitfinex, Bitso, Crypto.com, EDX Markets, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko AUCTION Reference Rate LDN,KK_RFR_AUCTIONUSD_LDN,AUCTION,USD,Daily Fixing LDN,"February 27, 2024","December 20, 2021","Kraken, OkEX",3600s,
-Kaiko,Single-Asset,Kaiko AUCTION Reference Rate NYC,KK_RFR_AUCTIONUSD_NYC,AUCTION,USD,Daily Fixing NYC,"February 27, 2024","December 20, 2021",-,-,
+Kaiko,Single-Asset,Kaiko AUCTION Reference Rate NYC,KK_RFR_AUCTIONUSD_NYC,AUCTION,USD,Daily Fixing NYC,"February 27, 2024","December 20, 2021","Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko AUCTION Reference Rate SGP,KK_RFR_AUCTIONUSD_SGP,AUCTION,USD,Daily Fixing SGP,"February 27, 2024","December 20, 2021","Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko AUDIO Reference Rate LDN,KK_RFR_AUDIOUSD_LDN,AUDIO,USD,Daily Fixing LDN,"February 27, 2024","December 21, 2020","Crypto.com, Kraken, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko AUDIO Reference Rate NYC,KK_RFR_AUDIOUSD_NYC,AUDIO,USD,Daily Fixing NYC,"February 27, 2024","December 21, 2020","Crypto.com, Kraken, Bitstamp",3600s,
