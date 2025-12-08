@@ -1376,7 +1376,7 @@ Kaiko,Single-Asset,Kaiko OSMO Reference Rate SGP,KK_RFR_OSMOUSD_SGP,OSMO,USD,Dai
 Kaiko,Single-Asset,Kaiko OXT Reference Rate LDN,KK_RFR_OXTUSD_LDN,OXT,USD,Daily Fixing LDN,"March 04, 2024","March 23, 2020","Crypto.com, Gemini, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko OXT Reference Rate NYC,KK_RFR_OXTUSD_NYC,OXT,USD,Daily Fixing NYC,"March 04, 2024","March 23, 2020","Crypto.com, Gemini, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko OXT Reference Rate SGP,KK_RFR_OXTUSD_SGP,OXT,USD,Daily Fixing SGP,"March 04, 2024","March 23, 2020","Crypto.com, Gemini, Kraken",3600s,
-Kaiko,Single-Asset,Kaiko PARTI Reference Rate NYC,KK_RFR_PARTIUSD_NYC,PARTI,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025",-,-,
+Kaiko,Single-Asset,Kaiko PARTI Reference Rate NYC,KK_RFR_PARTIUSD_NYC,PARTI,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025",OkEX,3600s,
 Kaiko,Single-Asset,Kaiko PARTI Reference Rate SGP,KK_RFR_PARTIUSD_SGP,PARTI,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025",OkEX,3600s,
 Kaiko,Single-Asset,Kaiko PAXG Reference Rate ,KK_RFR_PAXGUSD,PAXG,USD,Real-time (5s),"July 17, 2024","December 23, 2019","Bitso, Crypto.com, Gemini, Kraken",300s,
 Kaiko,Single-Asset,Kaiko PAXG Reference Rate LDN,KK_RFR_PAXGUSD_LDN,PAXG,USD,Daily Fixing LDN,"July 17, 2024","December 23, 2019","Bitso, Crypto.com, Gemini, Kraken",3600s,
