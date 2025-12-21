@@ -542,7 +542,7 @@ Kaiko,Single-Asset,Kaiko BICO Reference Rate NYC,KK_RFR_BICOUSD_NYC,BICO,USD,Dai
 Kaiko,Single-Asset,Kaiko BICO Reference Rate SGP,KK_RFR_BICOUSD_SGP,BICO,USD,Daily Fixing SGP,"February 27, 2024","March 21, 2022","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko BIGTIME Reference Rate LDN,KK_RFR_BIGTIMEUSD_LDN,BIGTIME,USD,Daily Fixing LDN,"February 27, 2024","February 27, 2024","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko BIGTIME Reference Rate NYC,KK_RFR_BIGTIMEUSD_NYC,BIGTIME,USD,Daily Fixing NYC,"February 27, 2024","February 27, 2024","Crypto.com, Kraken, OkEX",3600s,
-Kaiko,Single-Asset,Kaiko BIGTIME Reference Rate SGP,KK_RFR_BIGTIMEUSD_SGP,BIGTIME,USD,Daily Fixing SGP,"February 27, 2024","February 27, 2024",-,-,
+Kaiko,Single-Asset,Kaiko BIGTIME Reference Rate SGP,KK_RFR_BIGTIMEUSD_SGP,BIGTIME,USD,Daily Fixing SGP,"February 27, 2024","February 27, 2024","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko BIO Reference Rate ,KK_RFR_BIOUSD,BIO,USD,Real-time (5s),"June 18, 2025","June 18, 2025","Kraken, OkEX",300s,
 Kaiko,Single-Asset,Kaiko BIO Reference Rate LDN,KK_RFR_BIOUSD_LDN,BIO,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025","Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko BIO Reference Rate NYC,KK_RFR_BIOUSD_NYC,BIO,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025","Kraken, OkEX",3600s,
