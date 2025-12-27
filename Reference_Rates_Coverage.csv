@@ -117,7 +117,7 @@ Kaiko,Single-Asset,Kaiko AVAX Benchmark Reference Rate NYC,KK_BRR_AVAXUSD_NYC,AV
 Kaiko,Single-Asset,Kaiko AVAX Benchmark Reference Rate SGP,KK_BRR_AVAXUSD_SGP,AVAX,USD,Daily Fixing SGP,"June 19, 2023","June 19, 2023","CEX.IO, Crypto.com, Gemini, Kraken, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko AXS Benchmark Reference Rate ,KK_BRR_AXSUSD,AXS,USD,Real-time (5s),"January 17, 2023","December 20, 2021","Crypto.com, Kraken, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko AXS Benchmark Reference Rate ,KK_BRR_AXSUSD_HRY,AXS,USD,Daily Fixing Custom,"June 24, 2025","June 23, 2025","Crypto.com, Kraken, Bitstamp",3600s,
-Kaiko,Single-Asset,Kaiko AXS Benchmark Reference Rate LDN,KK_BRR_AXSUSD_LDN,AXS,USD,Daily Fixing LDN,"January 17, 2023","December 20, 2021","Crypto.com, Gemini, Kraken, Bitstamp",600s,
+Kaiko,Single-Asset,Kaiko AXS Benchmark Reference Rate LDN,KK_BRR_AXSUSD_LDN,AXS,USD,Daily Fixing LDN,"January 17, 2023","December 20, 2021","Crypto.com, Kraken, Bitstamp",600s,
 Kaiko,Single-Asset,Kaiko AXS Benchmark Reference Rate NYC,KK_BRR_AXSUSD_NYC,AXS,USD,Daily Fixing NYC,"January 17, 2023","December 20, 2021","Crypto.com, Gemini, Kraken, Bitstamp",600s,
 Kaiko,Single-Asset,Kaiko AXS Benchmark Reference Rate SGP,KK_BRR_AXSUSD_SGP,AXS,USD,Daily Fixing SGP,"January 17, 2023","December 20, 2021","Crypto.com, Kraken, Bitstamp",600s,
 Kaiko,Single-Asset,Kaiko BAT Benchmark Reference Rate ,KK_BRR_BATUSD,BAT,USD,Real-time (5s),"January 17, 2023","March 23, 2020","CEX.IO, Crypto.com, Gemini, Kraken, Bitstamp",300s,
