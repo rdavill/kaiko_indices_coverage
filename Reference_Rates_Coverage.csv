@@ -523,7 +523,7 @@ Kaiko,Single-Asset,Kaiko APE Reference Rate ,KK_RFR_APEUSD,APE,USD,Real-time (5s
 Kaiko,Single-Asset,Kaiko APE Reference Rate LDN,KK_RFR_APEUSD_LDN,APE,USD,Daily Fixing LDN,"February 27, 2024","June 20, 2022","Bitfinex, Bitso, Crypto.com, EDX Markets, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko APE Reference Rate NYC,KK_RFR_APEUSD_NYC,APE,USD,Daily Fixing NYC,"February 27, 2024","June 20, 2022","Bitfinex, Bitso, Crypto.com, EDX Markets, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko APE Reference Rate SGP,KK_RFR_APEUSD_SGP,APE,USD,Daily Fixing SGP,"February 27, 2024","June 20, 2022","Bitfinex, Bitso, Crypto.com, EDX Markets, Kraken",3600s,
-Kaiko,Single-Asset,Kaiko API3 Reference Rate LDN,KK_RFR_API3USD_LDN,API3,USD,Daily Fixing LDN,"February 27, 2024","December 20, 2021",-,-,
+Kaiko,Single-Asset,Kaiko API3 Reference Rate LDN,KK_RFR_API3USD_LDN,API3,USD,Daily Fixing LDN,"February 27, 2024","December 20, 2021","CEX.IO, Crypto.com, Gemini, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko API3 Reference Rate NYC,KK_RFR_API3USD_NYC,API3,USD,Daily Fixing NYC,"February 27, 2024","December 20, 2021","CEX.IO, Crypto.com, Gemini, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko API3 Reference Rate SGP,KK_RFR_API3USD_SGP,API3,USD,Daily Fixing SGP,"February 27, 2024","December 20, 2021","CEX.IO, Crypto.com, Gemini, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko APT Reference Rate ,KK_RFR_APTUSD,APT,USD,Real-time (5s),"February 27, 2024","December 19, 2022","Bitfinex, Crypto.com, EDX Markets, Kraken",300s,
