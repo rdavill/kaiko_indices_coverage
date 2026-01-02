@@ -923,7 +923,7 @@ Kaiko,Single-Asset,Kaiko EURQ Reference Rate LDN,KK_RFR_EURQUSD_LDN,EURQ,USD,Dai
 Kaiko,Single-Asset,Kaiko EURQ Reference Rate NYC,KK_RFR_EURQUSD_NYC,EURQ,USD,Daily Fixing NYC,"March 24, 2025","March 24, 2025","Bitfinex, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko EURQ Reference Rate SGP,KK_RFR_EURQUSD_SGP,EURQ,USD,Daily Fixing SGP,"March 24, 2025","March 24, 2025","Bitfinex, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko EURR Reference Rate LDN,KK_RFR_EURRUSD_LDN,EURR,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025","Bitfinex, Kraken",3600s,
-Kaiko,Single-Asset,Kaiko EURR Reference Rate NYC,KK_RFR_EURRUSD_NYC,EURR,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025",Kraken,3600s,
+Kaiko,Single-Asset,Kaiko EURR Reference Rate NYC,KK_RFR_EURRUSD_NYC,EURR,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025","Bitfinex, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko EURR Reference Rate SGP,KK_RFR_EURRUSD_SGP,EURR,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025","Bitfinex, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko EWT Reference Rate LDN,KK_RFR_EWTUSD_LDN,EWT,USD,Daily Fixing LDN,"February 27, 2024","June 21, 2021",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko EWT Reference Rate NYC,KK_RFR_EWTUSD_NYC,EWT,USD,Daily Fixing NYC,"February 27, 2024","June 21, 2021",Kraken,3600s,
