@@ -1408,7 +1408,7 @@ Kaiko,Single-Asset,Kaiko ONT Reference Rate LDN,KK_RFR_ONTUSD_LDN,ONT,USD,Daily 
 Kaiko,Single-Asset,Kaiko ONT Reference Rate NYC,KK_RFR_ONTUSD_NYC,ONT,USD,Daily Fixing NYC,"March 04, 2024","March 18, 2019","CEX.IO, Crypto.com, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko ONT Reference Rate SGP,KK_RFR_ONTUSD_SGP,ONT,USD,Daily Fixing SGP,"March 04, 2024","March 18, 2019","CEX.IO, Crypto.com, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko OP Reference Rate ,KK_RFR_OPUSD,OP,USD,Real-time (5s),"February 28, 2024","September 19, 2022","Bitfinex, Crypto.com, EDX Markets, Kraken, OkEX",300s,
-Kaiko,Single-Asset,Kaiko OP Reference Rate LDN,KK_RFR_OPUSD_LDN,OP,USD,Daily Fixing LDN,"February 28, 2024","September 19, 2022",-,-,
+Kaiko,Single-Asset,Kaiko OP Reference Rate LDN,KK_RFR_OPUSD_LDN,OP,USD,Daily Fixing LDN,"February 28, 2024","September 19, 2022","Crypto.com, EDX Markets, Kraken, OkEX, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko OP Reference Rate NYC,KK_RFR_OPUSD_NYC,OP,USD,Daily Fixing NYC,"February 28, 2024","September 19, 2022","Crypto.com, EDX Markets, Kraken, OkEX, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko OP Reference Rate SGP,KK_RFR_OPUSD_SGP,OP,USD,Daily Fixing SGP,"February 28, 2024","September 19, 2022","Crypto.com, EDX Markets, Kraken, OkEX, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko ORCA Reference Rate LDN,KK_RFR_ORCAUSD_LDN,ORCA,USD,Daily Fixing LDN,"March 04, 2024","March 21, 2022",Kraken,3600s,
