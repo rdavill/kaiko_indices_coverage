@@ -1830,7 +1830,7 @@ Kaiko,Single-Asset,Kaiko UMA Reference Rate NYC,KK_RFR_UMAUSD_NYC,UMA,USD,Daily 
 Kaiko,Single-Asset,Kaiko UMA Reference Rate SGP,KK_RFR_UMAUSD_SGP,UMA,USD,Daily Fixing SGP,"March 07, 2024","December 21, 2020","CEX.IO, Crypto.com, Gemini, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko UNFI Reference Rate LDN,KK_RFR_UNFIUSD_LDN,UNFI,USD,Daily Fixing LDN,"March 07, 2024","March 21, 2022",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko UNFI Reference Rate NYC,KK_RFR_UNFIUSD_NYC,UNFI,USD,Daily Fixing NYC,"March 07, 2024","March 21, 2022",Kraken,3600s,
-Kaiko,Single-Asset,Kaiko UNFI Reference Rate SGP,KK_RFR_UNFIUSD_SGP,UNFI,USD,Daily Fixing SGP,"March 07, 2024","March 21, 2022",Kraken,3600s,
+Kaiko,Single-Asset,Kaiko UNFI Reference Rate SGP,KK_RFR_UNFIUSD_SGP,UNFI,USD,Daily Fixing SGP,"March 07, 2024","March 21, 2022",-,-,
 Kaiko,Single-Asset,Kaiko UNI Reference Rate ,KK_RFR_UNIUSD,UNI,USD,Real-time (5s),"September 20, 2022","December 21, 2020","Bitfinex, Crypto.com, Itbit, Kraken, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko UNI Reference Rate LDN,KK_RFR_UNIUSD_LDN,UNI,USD,Daily Fixing LDN,"September 20, 2022","December 21, 2020","Bitfinex, EDX Markets, Kraken, LMAX, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko UNI Reference Rate NYC,KK_RFR_UNIUSD_NYC,UNI,USD,Daily Fixing NYC,"September 20, 2022","December 21, 2020","Bitfinex, Crypto.com, EDX Markets, Kraken, Bitstamp",3600s,
