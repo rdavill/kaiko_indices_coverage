@@ -1109,7 +1109,7 @@ Kaiko,Single-Asset,Kaiko INIT Reference Rate ,KK_RFR_INITUSD,INIT,USD,Real-time 
 Kaiko,Single-Asset,Kaiko INIT Reference Rate LDN,KK_RFR_INITUSD_LDN,INIT,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025","Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko INIT Reference Rate NYC,KK_RFR_INITUSD_NYC,INIT,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025","Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko INIT Reference Rate SGP,KK_RFR_INITUSD_SGP,INIT,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025","Crypto.com, Kraken",3600s,
-Kaiko,Single-Asset,Kaiko INJ Reference Rate ,KK_RFR_INJUSD,INJ,USD,Real-time (5s),"March 04, 2024","June 21, 2021","Crypto.com, Gemini, Kraken",300s,
+Kaiko,Single-Asset,Kaiko INJ Reference Rate ,KK_RFR_INJUSD,INJ,USD,Real-time (5s),"March 04, 2024","June 21, 2021",-,-,
 Kaiko,Single-Asset,Kaiko INJ Reference Rate LDN,KK_RFR_INJUSD_LDN,INJ,USD,Daily Fixing LDN,"March 04, 2024","June 21, 2021","Crypto.com, Gemini, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko INJ Reference Rate NYC,KK_RFR_INJUSD_NYC,INJ,USD,Daily Fixing NYC,"March 04, 2024","June 21, 2021","Crypto.com, Gemini, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko INJ Reference Rate SGP,KK_RFR_INJUSD_SGP,INJ,USD,Daily Fixing SGP,"March 04, 2024","June 21, 2021","Crypto.com, Gemini, Kraken",3600s,
