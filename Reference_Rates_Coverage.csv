@@ -1158,7 +1158,7 @@ Kaiko,Single-Asset,Kaiko KARRAT Reference Rate LDN,KK_RFR_KARRATUSD_LDN,KARRAT,U
 Kaiko,Single-Asset,Kaiko KARRAT Reference Rate NYC,KK_RFR_KARRATUSD_NYC,KARRAT,USD,Daily Fixing NYC,"June 24, 2024","June 24, 2024","Crypto.com, KuCoin",3600s,
 Kaiko,Single-Asset,Kaiko KARRAT Reference Rate SGP,KK_RFR_KARRATUSD_SGP,KARRAT,USD,Daily Fixing SGP,"June 24, 2024","June 24, 2024","Crypto.com, KuCoin",3600s,
 Kaiko,Single-Asset,Kaiko KAS Reference Rate ,KK_RFR_KASUSD,KAS,USD,Real-time (5s),"June 18, 2025","June 18, 2025",Kraken,300s,
-Kaiko,Single-Asset,Kaiko KAS Reference Rate LDN,KK_RFR_KASUSD_LDN,KAS,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025",Kraken,3600s,
+Kaiko,Single-Asset,Kaiko KAS Reference Rate LDN,KK_RFR_KASUSD_LDN,KAS,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025",-,-,
 Kaiko,Single-Asset,Kaiko KAS Reference Rate NYC,KK_RFR_KASUSD_NYC,KAS,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko KAS Reference Rate SGP,KK_RFR_KASUSD_SGP,KAS,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko KAVA Reference Rate ,KK_RFR_KAVAUSD,KAVA,USD,Real-time (5s),"March 04, 2024","September 21, 2020","Bitfinex, CEX.IO, Crypto.com, Kraken",300s,
