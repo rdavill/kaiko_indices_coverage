@@ -1731,7 +1731,7 @@ Kaiko,Single-Asset,Kaiko S Reference Rate SGP,KK_RFR_SUSD_SGP,S,USD,Daily Fixing
 Kaiko,Single-Asset,Kaiko SUSHI Reference Rate ,KK_RFR_SUSHIUSD,SUSHI,USD,Real-time (5s),"March 07, 2024","December 21, 2020","Bitfinex, Bitso, Crypto.com, Gemini, Kraken",300s,
 Kaiko,Single-Asset,Kaiko SUSHI Reference Rate LDN,KK_RFR_SUSHIUSD_LDN,SUSHI,USD,Daily Fixing LDN,"March 07, 2024","December 21, 2020","Bitfinex, Bitso, Crypto.com, Gemini, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko SUSHI Reference Rate NYC,KK_RFR_SUSHIUSD_NYC,SUSHI,USD,Daily Fixing NYC,"March 07, 2024","December 21, 2020","Bitfinex, Bitso, Crypto.com, Gemini, Kraken",3600s,
-Kaiko,Single-Asset,Kaiko SUSHI Reference Rate SGP,KK_RFR_SUSHIUSD_SGP,SUSHI,USD,Daily Fixing SGP,"March 07, 2024","December 21, 2020","Bitfinex, Bitso, Crypto.com, Gemini, Kraken",3600s,
+Kaiko,Single-Asset,Kaiko SUSHI Reference Rate SGP,KK_RFR_SUSHIUSD_SGP,SUSHI,USD,Daily Fixing SGP,"March 07, 2024","December 21, 2020","Bitfinex, Bitso, CEX.IO, Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko SWEAT Reference Rate LDN,KK_RFR_SWEATUSD_LDN,SWEAT,USD,Daily Fixing LDN,"March 07, 2024","December 19, 2022","Bitfinex, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko SWEAT Reference Rate NYC,KK_RFR_SWEATUSD_NYC,SWEAT,USD,Daily Fixing NYC,"March 07, 2024","December 19, 2022","Bitfinex, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko SWEAT Reference Rate SGP,KK_RFR_SWEATUSD_SGP,SWEAT,USD,Daily Fixing SGP,"March 07, 2024","December 19, 2022","Bitfinex, OkEX",3600s,
