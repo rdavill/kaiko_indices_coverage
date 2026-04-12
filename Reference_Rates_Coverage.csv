@@ -1696,7 +1696,7 @@ Kaiko,Single-Asset,Kaiko S Reference Rate NYC,KK_RFR_SUSD_NYC,S,USD,Daily Fixing
 Kaiko,Single-Asset,Kaiko S Reference Rate SGP,KK_RFR_SUSD_SGP,S,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025","Bitso, Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko SUSHI Reference Rate LDN,KK_RFR_SUSHIUSD_LDN,SUSHI,USD,Daily Fixing LDN,"March 07, 2024","December 21, 2020","Bitfinex, Bitso, Crypto.com, Gemini, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko SUSHI Reference Rate NYC,KK_RFR_SUSHIUSD_NYC,SUSHI,USD,Daily Fixing NYC,"March 07, 2024","December 21, 2020","Bitfinex, Bitso, Crypto.com, Gemini, Kraken",3600s,
-Kaiko,Single-Asset,Kaiko SUSHI Reference Rate SGP,KK_RFR_SUSHIUSD_SGP,SUSHI,USD,Daily Fixing SGP,"March 07, 2024","December 21, 2020","Bitfinex, Bitso, CEX.IO, Crypto.com, Kraken",3600s,
+Kaiko,Single-Asset,Kaiko SUSHI Reference Rate SGP,KK_RFR_SUSHIUSD_SGP,SUSHI,USD,Daily Fixing SGP,"March 07, 2024","December 21, 2020","Bitfinex, Bitso, Crypto.com, Gemini, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko SWELL Reference Rate LDN,KK_RFR_SWELLUSD_LDN,SWELL,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko SWELL Reference Rate NYC,KK_RFR_SWELLUSD_NYC,SWELL,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko SWELL Reference Rate SGP,KK_RFR_SWELLUSD_SGP,SWELL,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025",Kraken,3600s,
