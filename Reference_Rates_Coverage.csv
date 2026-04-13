@@ -1918,7 +1918,7 @@ Kaiko,Single-Asset,Kaiko XOMX Reference Rate NYC,KK_RFR_XOMXUSD_NYC,XOMX,USD,Dai
 Kaiko,Single-Asset,Kaiko XOMX Reference Rate SGP,KK_RFR_XOMXUSD_SGP,XOMX,USD,Daily Fixing SGP,"December 22, 2025","December 22, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko XPLA Reference Rate LDN,KK_RFR_XPLAUSD_LDN,XPLA,USD,Daily Fixing LDN,"December 13, 2024","December 13, 2024",Crypto.com,3600s,
 Kaiko,Single-Asset,Kaiko XPLA Reference Rate NYC,KK_RFR_XPLAUSD_NYC,XPLA,USD,Daily Fixing NYC,"December 13, 2024","December 13, 2024",Crypto.com,3600s,
-Kaiko,Single-Asset,Kaiko XPLA Reference Rate SGP,KK_RFR_XPLAUSD_SGP,XPLA,USD,Daily Fixing SGP,"December 13, 2024","December 13, 2024",-,-,
+Kaiko,Single-Asset,Kaiko XPLA Reference Rate SGP,KK_RFR_XPLAUSD_SGP,XPLA,USD,Daily Fixing SGP,"December 13, 2024","December 13, 2024",Crypto.com,3600s,
 Kaiko,Single-Asset,Kaiko XPL Reference Rate ,KK_RFR_XPLUSD,XPL,USD,Real-time (5s),"October 28, 2025","September 22, 2025","Crypto.com, EDX Markets, Kraken, OkEX, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko XRP Reference Rate ,KK_RFR_XRPUSD,XRP,USD,Real-time (5s),"September 20, 2022","June 19, 2017","Crypto.com, EDX Markets, Kraken, LMAX, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko XRP Reference Rate LDN,KK_RFR_XRPUSD_LDN,XRP,USD,Daily Fixing LDN,"September 20, 2022","June 19, 2017","Crypto.com, EDX Markets, Kraken, LMAX, Bitstamp",3600s,
