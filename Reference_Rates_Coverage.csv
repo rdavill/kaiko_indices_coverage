@@ -354,7 +354,7 @@ Kaiko,Single-Asset,Kaiko PUMPFUN Benchmark Reference Rate LDN,KK_BRR_PUMPFUNUSD_
 Kaiko,Single-Asset,Kaiko PUMPFUN Benchmark Reference Rate NYC,KK_BRR_PUMPFUNUSD_NYC,PUMPFUN,USD,Daily Fixing NYC,"September 22, 2025","September 22, 2025","Crypto.com, Gemini, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko PUMPFUN Benchmark Reference Rate SGP,KK_BRR_PUMPFUNUSD_SGP,PUMPFUN,USD,Daily Fixing SGP,"September 22, 2025","September 22, 2025","Crypto.com, Gemini, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko PYTH Benchmark Reference Rate ,KK_BRR_PYTHUSD,PYTH,USD,Real-time (5s),"December 05, 2025","December 13, 2024","Crypto.com, Gemini, Kraken, LMAX, OkEX",300s,
-Kaiko,Single-Asset,Kaiko PYTH Benchmark Reference Rate LDN,KK_BRR_PYTHUSD_LDN,PYTH,USD,Daily Fixing LDN,"December 13, 2024","December 13, 2024","Crypto.com, Gemini, Kraken, LMAX, Bitstamp",300s,
+Kaiko,Single-Asset,Kaiko PYTH Benchmark Reference Rate LDN,KK_BRR_PYTHUSD_LDN,PYTH,USD,Daily Fixing LDN,"December 13, 2024","December 13, 2024","Crypto.com, Gemini, Kraken, LMAX, OkEX",300s,
 Kaiko,Single-Asset,Kaiko PYTH Benchmark Reference Rate NYC,KK_BRR_PYTHUSD_NYC,PYTH,USD,Daily Fixing NYC,"September 22, 2025","December 23, 2024","Crypto.com, Gemini, Kraken, LMAX, OkEX",300s,
 Kaiko,Single-Asset,Kaiko PYTH Benchmark Reference Rate SGP,KK_BRR_PYTHUSD_SGP,PYTH,USD,Daily Fixing SGP,"December 13, 2024","December 13, 2024","Crypto.com, Gemini, Kraken, LMAX, OkEX",300s,
 Kaiko,Single-Asset,Kaiko QNT Benchmark Reference Rate ,KK_BRR_QNTUSD,QNT,USD,Real-time (5s),"March 27, 2025","September 23, 2024","Crypto.com, Gemini, Kraken",300s,
