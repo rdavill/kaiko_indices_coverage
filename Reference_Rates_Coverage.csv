@@ -921,7 +921,7 @@ Kaiko,Single-Asset,Kaiko EOS Reference Rate SGP,KK_RFR_EOSUSD_SGP,EOS,USD,Daily 
 Kaiko,Single-Asset,Kaiko ETC Reference Rate ,KK_RFR_ETCUSD,ETC,USD,Real-time (5s),"September 20, 2022","September 19, 2016","Bitfinex, Crypto.com, EDX Markets, Kraken, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko ETC Reference Rate LDN,KK_RFR_ETCUSD_LDN,ETC,USD,Daily Fixing LDN,"September 20, 2022","September 19, 2016","Bitfinex, Crypto.com, EDX Markets, Kraken, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko ETC Reference Rate NYC,KK_RFR_ETCUSD_NYC,ETC,USD,Daily Fixing NYC,"September 20, 2022","September 19, 2016","Bitfinex, Crypto.com, EDX Markets, Kraken, Bitstamp",3600s,
-Kaiko,Single-Asset,Kaiko ETC Reference Rate SGP,KK_RFR_ETCUSD_SGP,ETC,USD,Daily Fixing SGP,"September 20, 2022","September 19, 2016","Bitfinex, Crypto.com, EDX Markets, Kraken, Bitstamp",3600s,
+Kaiko,Single-Asset,Kaiko ETC Reference Rate SGP,KK_RFR_ETCUSD_SGP,ETC,USD,Daily Fixing SGP,"September 20, 2022","September 19, 2016","Bitfinex, Crypto.com, Kraken, OkEX, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko ETHDYDX Reference Rate ,KK_RFR_ETHDYDXUSD,ETHDYDX,USD,Real-time (5s),"June 24, 2024","December 20, 2021","Bitso, Crypto.com, Kraken",300s,
 Kaiko,Single-Asset,Kaiko ETHDYDX Reference Rate LDN,KK_RFR_ETHDYDXUSD_LDN,ETHDYDX,USD,Daily Fixing LDN,"June 24, 2024","December 20, 2021","Bitso, Crypto.com, Kraken",3600s,
 Kaiko,Single-Asset,Kaiko ETHDYDX Reference Rate NYC,KK_RFR_ETHDYDXUSD_NYC,ETHDYDX,USD,Daily Fixing NYC,"June 24, 2024","December 20, 2021","Bitso, Crypto.com, Kraken",3600s,
