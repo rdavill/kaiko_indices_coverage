@@ -1352,7 +1352,7 @@ Kaiko,Single-Asset,Kaiko MXC Reference Rate SGP,KK_RFR_MXCUSD_SGP,MXC,USD,Daily 
 Kaiko,Single-Asset,Kaiko NEAR Reference Rate ,KK_RFR_NEARUSD,NEAR,USD,Real-time (5s),"February 28, 2024","June 21, 2021","Bitfinex, Crypto.com, Kraken, OkEX, Bitstamp",300s,
 Kaiko,Single-Asset,Kaiko NEAR Reference Rate LDN,KK_RFR_NEARUSD_LDN,NEAR,USD,Daily Fixing LDN,"February 28, 2024","June 21, 2021","Bitfinex, Crypto.com, Kraken, OkEX, Bitstamp",3600s,
 Kaiko,Single-Asset,Kaiko NEAR Reference Rate NYC,KK_RFR_NEARUSD_NYC,NEAR,USD,Daily Fixing NYC,"February 28, 2024","June 21, 2021","Bitfinex, Crypto.com, Kraken, OkEX, Bitstamp",3600s,
-Kaiko,Single-Asset,Kaiko NEAR Reference Rate SGP,KK_RFR_NEARUSD_SGP,NEAR,USD,Daily Fixing SGP,"February 28, 2024","June 21, 2021","Bitfinex, Crypto.com, Kraken, OkEX, Bitstamp",3600s,
+Kaiko,Single-Asset,Kaiko NEAR Reference Rate SGP,KK_RFR_NEARUSD_SGP,NEAR,USD,Daily Fixing SGP,"February 28, 2024","June 21, 2021",-,-,
 Kaiko,Single-Asset,Kaiko NEIRO Reference Rate LDN,KK_RFR_NEIROUSD_LDN,NEIRO,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025","Bitso, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko NEIRO Reference Rate NYC,KK_RFR_NEIROUSD_NYC,NEIRO,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025","Bitso, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko NEIRO Reference Rate SGP,KK_RFR_NEIROUSD_SGP,NEIRO,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025","Bitso, Kraken, OkEX",3600s,
