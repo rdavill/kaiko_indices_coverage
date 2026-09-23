@@ -233,7 +233,7 @@ Kaiko,Single-Asset,Kaiko GALA Benchmark Reference Rate LDN,KK_BRR_GALAUSD_LDN,GA
 Kaiko,Single-Asset,Kaiko GALA Benchmark Reference Rate NYC,KK_BRR_GALAUSD_NYC,GALA,USD,Daily Fixing NYC,"February 13, 2024","September 18, 2023","Crypto.com, Gemini, Kraken, OkEX",300s,
 Kaiko,Single-Asset,Kaiko GALA Benchmark Reference Rate SGP,KK_BRR_GALAUSD_SGP,GALA,USD,Daily Fixing SGP,"February 13, 2024","September 18, 2023","Crypto.com, Gemini, Kraken, OkEX",600s,
 Kaiko,Single-Asset,Kaiko GMT Benchmark Reference Rate LDN,KK_BRR_GMTUSD_LDN,GMT,USD,Daily Fixing LDN,"December 13, 2024","December 13, 2024","Crypto.com, Kraken, OkEX",3600s,
-Kaiko,Single-Asset,Kaiko GMX Benchmark Reference Rate LDN,KK_BRR_GMXUSD_LDN,GMX,USD,Daily Fixing LDN,"December 13, 2024","December 13, 2024","CEX.IO, Crypto.com, Kraken",3600s,
+Kaiko,Single-Asset,Kaiko GMX Benchmark Reference Rate LDN,KK_BRR_GMXUSD_LDN,GMX,USD,Daily Fixing LDN,"December 13, 2024","December 13, 2024","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko GMX Benchmark Reference Rate NYC,KK_BRR_GMXUSD_NYC,GMX,USD,Daily Fixing NYC,"September 22, 2025","September 22, 2025","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko GMX Benchmark Reference Rate SGP,KK_BRR_GMXUSD_SGP,GMX,USD,Daily Fixing SGP,"December 13, 2024","December 13, 2024","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko GOATSEUS Benchmark Reference Rate LDN,KK_BRR_GOATSEUSUSD_LDN,GOATSEUS,USD,Daily Fixing LDN,"September 22, 2025","March 24, 2025","Crypto.com, Kraken, OkEX",900s,
