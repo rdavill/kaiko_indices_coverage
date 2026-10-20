@@ -1484,7 +1484,7 @@ Kaiko,Single-Asset,Kaiko MELANIA Reference Rate LDN,KK_RFR_MELANIAUSD_LDN,MELANI
 Kaiko,Single-Asset,Kaiko MELANIA Reference Rate NYC,KK_RFR_MELANIAUSD_NYC,MELANIA,USD,Daily Fixing NYC,"March 24, 2025","March 24, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko MELANIA Reference Rate SGP,KK_RFR_MELANIAUSD_SGP,MELANIA,USD,Daily Fixing SGP,"March 24, 2025","March 24, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko MEME Reference Rate LDN,KK_RFR_MEMEUSD_LDN,MEME,USD,Daily Fixing LDN,"June 24, 2024","June 24, 2024","Kraken, OkEX",3600s,
-Kaiko,Single-Asset,Kaiko MEME Reference Rate NYC,KK_RFR_MEMEUSD_NYC,MEME,USD,Daily Fixing NYC,"June 24, 2024","June 24, 2024",-,-,
+Kaiko,Single-Asset,Kaiko MEME Reference Rate NYC,KK_RFR_MEMEUSD_NYC,MEME,USD,Daily Fixing NYC,"June 24, 2024","June 24, 2024","Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko MEME Reference Rate SGP,KK_RFR_MEMEUSD_SGP,MEME,USD,Daily Fixing SGP,"June 24, 2024","June 24, 2024","Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko MERL Reference Rate LDN,KK_RFR_MERLUSD_LDN,MERL,USD,Daily Fixing LDN,"March 24, 2025","March 24, 2025","Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko MERL Reference Rate NYC,KK_RFR_MERLUSD_NYC,MERL,USD,Daily Fixing NYC,"March 24, 2025","March 24, 2025","Kraken, OkEX",3600s,
