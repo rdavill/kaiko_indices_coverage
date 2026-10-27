@@ -1596,7 +1596,7 @@ Kaiko,Single-Asset,Kaiko NFT Reference Rate LDN,KK_RFR_NFTUSD_LDN,NFT,USD,Daily 
 Kaiko,Single-Asset,Kaiko NFT Reference Rate NYC,KK_RFR_NFTUSD_NYC,NFT,USD,Daily Fixing NYC,"March 04, 2024","September 19, 2022",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko NFT Reference Rate SGP,KK_RFR_NFTUSD_SGP,NFT,USD,Daily Fixing SGP,"March 04, 2024","September 19, 2022",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko NIL Reference Rate LDN,KK_RFR_NILUSD_LDN,NIL,USD,Daily Fixing LDN,"June 18, 2025","June 18, 2025",Kraken,3600s,
-Kaiko,Single-Asset,Kaiko NIL Reference Rate NYC,KK_RFR_NILUSD_NYC,NIL,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025",-,-,
+Kaiko,Single-Asset,Kaiko NIL Reference Rate NYC,KK_RFR_NILUSD_NYC,NIL,USD,Daily Fixing NYC,"June 18, 2025","June 18, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko NIL Reference Rate SGP,KK_RFR_NILUSD_SGP,NIL,USD,Daily Fixing SGP,"June 18, 2025","June 18, 2025",Kraken,3600s,
 Kaiko,Single-Asset,Kaiko NMR Reference Rate LDN,KK_RFR_NMRUSD_LDN,NMR,USD,Daily Fixing LDN,"March 04, 2024","September 21, 2020","Crypto.com, Kraken, OkEX",3600s,
 Kaiko,Single-Asset,Kaiko NMR Reference Rate NYC,KK_RFR_NMRUSD_NYC,NMR,USD,Daily Fixing NYC,"March 04, 2024","September 21, 2020","Crypto.com, Kraken, OkEX",3600s,
